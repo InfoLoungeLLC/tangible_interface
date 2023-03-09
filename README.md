@@ -1,8 +1,3 @@
----
-title: "README"
-tags: ""
----
-
 # 令和4年度 民間ユースケース開発　（UCID）「XR技術を用いた体感型アーバンプランニングツール」の成果物
 
 
@@ -38,7 +33,7 @@ TangibleTownPlanningはボード上のボックスを操作することによっ
 
 ## 導入
 #### ArUcoServer 及び VR_Client の導入は、下記の手順で行います。
-* GitHubの配布ページから zipファイルをダウンロードします。
+* GitHubの配布ページから "20230309ArUcoServer.zip"、"20230309VR_Client.zip"をダウンロードします。尚、ファイル名に"Execute"とついているものは実行ファイルです。
 * ダウンロードしたzipファイルを展開します。
 * Unity Hub 画面右上の開くを押し、展開したフォルダを選択します。
 ![unityhubp.png](https://github.com/rin-tani/test/blob/main/unityhubp.png)
