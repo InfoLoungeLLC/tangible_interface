@@ -1,9 +1,4 @@
----
-title: "README"
-tags: ""
----
-
-# 令和4年度 民間ユースケース開発　（UCID）「XR技術を用いた体感型アーバンプランニングツール」の成果物
+# FY2022 Project PLATEAU UC22-035「XR技術を用いた体感型アーバンプランニングツール」の成果物
 
 
 ## 1. 概要
@@ -94,6 +89,8 @@ TangibleTownPlanningはボード上のボックスを操作することによっ
 * 本レポジトリの利用により生じた損失及び損害等について、国土交通省はいかなる責任も負わないものとします。
 
 ## 参考資料　 <!-- 各リンクは納品時に更新 -->
-* （ユースケース名）技術検証レポート: https://www.mlit.go.jp/plateau/libraries/technical-reports/
-*  PLATEAU Webサイト Use caseページ「（ユースケース名）」: https://www.mlit.go.jp/plateau/use-case/
-* （利用しているライブラリなどへのリンク）
+* XR技術を用いた体感型アーバンプランニングツール技術検証レポート（近日公開予定）: https://www.mlit.go.jp/plateau/libraries/technical-reports/
+*  PLATEAU Webサイト Use caseページ「XR技術を用いた体感型アーバンプランニングツール」: https://www.mlit.go.jp/plateau/use-case/
+### （利用しているライブラリなどへのリンク）
+* OpenCV for Unity：https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088?locale=ja-JP
+* UniStorm：https://assetstore.unity.com/packages/tools/particles-effects/unistorm-2714
